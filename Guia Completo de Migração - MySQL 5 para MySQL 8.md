@@ -1,6 +1,6 @@
 # Guia Completo de Migração: Do MySQL 5 ao MySQL 8
 
-A migração do MySQL 5 (especialmente 5.7) para o MySQL 8.0 representa um salto significativo, trazendo melhorias de desempenho, segurança e novas funcionalidades. No entanto, essa transição envolve mudanças arquiteturais e incompatibilidades que exigem planejamento e testes rigorosos. Este guia detalha os pontos cruciais para garantir uma migração bem-sucedida.
+A migração do MySQL 5 (especialmente 5.7) para o MySQL 8.0 representa um salto significativo, trazendo melhorias de desempenho, segurança e novas funcionalidades. No entanto, essa transição envolve mudanças arquiteturais e incompatibilidades que exigem planejamento e testes rigorosos. Este guia detalha os pontos cruciais para garantir uma migração bem-sucedida. 
 
 ---
 
